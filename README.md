@@ -3,7 +3,7 @@
 A futuristic, animated learning dashboard built with Next.js App Router, Supabase, Tailwind CSS, and Framer Motion.
 
 ## Live Demo
-https://learning-dashboard-3ake-c69wgdtdd-shreeja-singhs-projects.vercel.app/dashboard
+https://learning-dashboard-3ake.vercel.app/dashboard
 
 ## Setup
 
